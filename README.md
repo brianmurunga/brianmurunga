@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Digital Forensics**
 
-- 📫 How to reach me **https://www.linkedin.com/in/brian-wakhungu-a0467a263/**
+- 📫 How to reach me **https://www.linkedin.com/in/brian-murunga-a0467a263/**
 
 - ⚡ Fun fact **There is only one way to find out.**
 
