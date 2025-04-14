@@ -6,7 +6,7 @@
 - 🔐 I’m passionate about **Cybersecurity, Digital Forensics, and Security Engineering**
 - 🚧 Currently building: **A Distributed Log Processing System** + a **Sheep Management System with Spring Boot**
 - 🎯 My mission: To secure systems, analyze threats, and build solutions that matter
-- 🎓 Recently completed: BSc in Information Security and Forensics
+- 🎓 Course: BSc in Information Security and Forensics
 - 🛡️ Learning sprint: **Cloud Security, SOC Analysis, Python/Bash Automation, and Penetration Testing**
 - 🤝 Open to: **Internships | Collaborations | Research | Security Labs**
 - 💬 Ask me about: **CTFs, Malware Analysis, Forensics Tools, or Cyber Trends**
