@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brian Murunga</h1>
+<h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">Aspiring Security Engineer | Infosec & Forensics Enthusiast | CTF Player | Tech Explorer from Kenya 🇰🇪</h3>
 
 ---
