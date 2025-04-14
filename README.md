@@ -38,10 +38,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianmurunga&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brianmurunga&" alt="c0mmand3r" /></p>
 ---
 
 ### 🚀 Next Steps
