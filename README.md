@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Graduating with a **BSc in Information Security & Forensics (Nov 2025)** from **KCA University**
+- 🎓 Graduating with a **BSc in Information Security & Forensics** from **KCA University**
 - ✅ Completed **CyberShujaa Security Analyst Program** and **IBM Cybersecurity Professional Certificate**
 - 💡 Passionate about **bridging ICT support with cybersecurity** to help organizations maintain secure, efficient systems
 - 🔍 Exploring **SIEM tools, cloud security, and automation (PowerShell & Bash)**
