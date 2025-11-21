@@ -79,6 +79,6 @@ I focus on translating technical skills into **practical security value**—from
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/brian-murunga-wakhungu/)  
 
-🔗 **Portfolio:** _(brianmurunga.github.io)*
+🔗 **Portfolio:** [![Github](https://img.shields.io/badge/github-repo-blue?logo=github)](https://brianmurunga.github.io/) 
 
 ---
